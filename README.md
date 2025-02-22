@@ -2,7 +2,6 @@
 - 👀 I’m interested in development and designing of projects
 -👍 I’m currently learning cyber security
 - ✨️ I’m looking to collaborate on opensourse projects and humane design
-- 📫 How to reach me www.linkedin.com/in/kirubelastr
 
 
 <!---
